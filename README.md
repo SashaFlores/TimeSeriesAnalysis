@@ -2,25 +2,18 @@
 
 ![Yen Photo](Images/unit-10-readme-photo.png)
 
-## Background
+## Project Narrative
 
-The financial departments of large companies often deal with foreign currency transactions while doing international business. As a result, they are always looking for anything that can help them better understand the future direction and risk of various currencies. Hedge funds, too, are keenly interested in anything that will give them a consistent edge in predicting currency movements.
+Test various time-series Models to predict future movements in the value of the Japanese yen versus the U.S. dollar.
 
-In this assignment, you will test the many time-series tools that you have learned in order to predict future movements in the value of the Japanese yen versus the U.S. dollar.
 
-You will gain proficiency in the following tasks:
-
-1. Time Series Forecasting
-2. Linear Regression Modeling
 
 
 - - -
 
 ### Files
 
-Use the following starter code to complete this assignment. 
 
-Note: The starter code shows example calculations and figures to use as a guide. However, your actual output may differ depending on the code and data used.
 
 [Time-Series Starter Notebook](Starter_Code/time_series_analysis.ipynb)
 
@@ -66,19 +59,5 @@ Use the results of the linear regression analysis and modeling to answer the fol
 
 * Does this model perform better or worse on out-of-sample data compared to in-sample data?
 
-- - -
+#### [You can find answers in enclosed summary report.](./Summary_Report.md)
 
-### Hints and Considerations
-
-* Out-of-sample data is data that the model hasn't seen before (Testing data).
-* In-sample data is data that the model was trained on (Training data).
-
-- - -
-
-### Submission
-
-* Create Jupyter Notebooks for the analysis and host the notebooks on GitHub.
-
-* Include a Markdown that summarizes your models and findings and include this report in your GitHub repo.
-
-* Submit the link to your GitHub project to Bootcampspot.
